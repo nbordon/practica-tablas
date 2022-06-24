@@ -1,0 +1,12 @@
+h2,caption {
+    background-color: cyan;
+}
+
+caption{
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+#ejercicio6 tfoot td{
+    text-align: center;
+}
